@@ -1,6 +1,7 @@
 # SG8A-ORIN-GMSL
 Quickly bring up sensing's camera on Jetson-AGX-Orin-Devkit
 
+![image](https://github.com/Sensing-World/SG8A-ORIN-GMSL/blob/main/file.jpg)
 <p>SG8A-ORIN-GMSL-V1.0</p>
 <p>├── install.sh  (install package script)</p>
 <p>├── loadko.sh   (load ko script)</p>
