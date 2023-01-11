@@ -18,4 +18,4 @@ Quickly bring up sensing's camera on Jetson-AGX-Orin-Devkit
 
 Image download link:https://github.com/Sensing-World/SG8A-ORIN-GMSL/releases <br>
 
-Image file size is over 25M, I submit  it in the Releases, need download and put in folder [package]
+Image file size is over 25M, it been submit in the Releases, need download and put in folder [package]
